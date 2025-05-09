@@ -1,6 +1,6 @@
 # Personal Portfolio 
 
-This is my personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**. It showcases my web development projects, skills, experience, and includes contact information. The website is fully responsive and supports dark mode.
+This is my personal portfolio website built with React, Vite, and Tailwind CSS. It showcases my web development projects, skills, and contact information. The website is fully responsive.
 
 ## Technologies Used
 
