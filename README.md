@@ -1,4 +1,4 @@
-# Personal Portfolio – Erjon Havolli
+# Personal Portfolio 
 
 This is my personal portfolio website built using **React**, **Vite**, and **Tailwind CSS**. It showcases my web development projects, skills, experience, and includes contact information. The website is fully responsive and supports dark mode.
 
