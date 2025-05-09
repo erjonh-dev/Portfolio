@@ -21,7 +21,7 @@ While building this project, I improved my skills in:
 
 ## Live Demo
 
- [View Live Portfolio](https://vercel.com/havollierjons-projects/erjonhavolli)
+ [View Live Portfolio](https://erjonhavolli.vercel.app/)
 
 ## Run Locally
 
