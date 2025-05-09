@@ -8,7 +8,7 @@ This is my personal portfolio website built with React, Vite, and Tailwind CSS. 
 - Vite
 - Tailwind CSS
 - Framer Motion
-- Lucide React / FontAwesome (for icons)
+- Bootstrap
 
 ## What I Learned
 
