@@ -23,12 +23,6 @@ While building this project, I improved my skills in:
 
  [View Live Portfolio](https://yourportfoliourl.com)
 
-## Screenshots
-
-<!-- You can insert images like this -->
-![Homepage Screenshot](./screenshots/home.png)
-![Projects Section](./screenshots/projects.png)
-
 ## Run Locally
 
 To run this project locally:
