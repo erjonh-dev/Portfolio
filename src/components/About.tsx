@@ -22,7 +22,7 @@ const About = () => {
               </div>
             </div>
             <div className="col-lg-6 content text-center text-lg-start">
-              <h2 className="fw-bold">Junior Software Developer</h2>
+              <h2 className="fw-bold">Junior Full stack Developer</h2>
               <p className="fst-italic py-3">
                 "Passionate about building modern web experiences and always eager to learn and grow."
               </p>

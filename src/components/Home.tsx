@@ -8,7 +8,7 @@
           <div className="row justify-content-center">
             <div className="col-lg-8">
               <h2>Erjon Havolli</h2>
-              <p>Junior Software Developer</p>
+              <p>Junior Full stack Developer</p>
               <a href="#about" className="btn-get-started">About</a>
             </div>
           </div>
