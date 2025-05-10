@@ -7,7 +7,7 @@
   --default-color: #444444; 
   --heading-color: #222222; 
   --accent-color: #34b7a7; 
-  --surface-color: #ffffff; 
+  --surface-color: #f2f1f1ec; 
   --contrast-color: #ffffff; 
   --scroll-behavior: smooth;
   --nav-color: #444444;  
@@ -595,6 +595,14 @@ font-size: 20px;
   .progetto-description {
     padding: 15px;
   }
+
+  .project-divider {
+  border: none;
+  border-top: 3px solid #c7c1c1;
+  margin: 10px 0;
+  width: 100%;
+}
+
 
   .experience-box {
     background-color: #f9f9f9;
