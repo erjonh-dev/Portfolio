@@ -16,7 +16,7 @@ While building this project, I improved my skills in:
 - React components and state management
 - Responsive design with Tailwind
 - Animations with Framer Motion
-- Deploying with platforms like Render or GitHub Pages
+- Deploying with platforms like Vercel
 
 ## Live Demo
 
