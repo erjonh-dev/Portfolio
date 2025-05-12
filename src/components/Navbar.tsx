@@ -39,7 +39,7 @@ const Navbar = () => {
           <a href="https://www.linkedin.com/in/erjon-havolli-0147b1336/" target="_blank" rel="noreferrer">
             <i className='bx bxl-linkedin'></i>
           </a>
-          <a href="https://github.com/HavolliErjon" target="_blank" rel="noreferrer">
+          <a href="https://github.com/erjonh-dev" target="_blank" rel="noreferrer">
             <i className="bx bxl-github"></i>
           </a>
         </div>
